@@ -13,7 +13,7 @@ public class DINGDINGLoginController {
 
     @GetMapping("/login")
     public String login(){
-       return null ;  
+       return null ;
     }
 
 }
