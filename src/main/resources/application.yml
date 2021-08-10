@@ -1,0 +1,9 @@
+server:
+  port: 8080
+dingding:
+  h5:
+    agentId: 1257263951
+    appKey: dingxfkaztgrg1e6my0s
+    appSecret: 4Pf3TSd13IgfPGdWqwLQ3u3Q-EFiHEv5J67xD-HNm_IMyrQRmj-CMYeg34UcF5BF
+    aesKey: ea2giVWB4nGQHTs50Ee83Q5i3vyiFLkV7mdoouiJ9lz
+    token: OvKRtL1kves4
